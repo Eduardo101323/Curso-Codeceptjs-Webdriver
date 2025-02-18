@@ -1,0 +1,18 @@
+{
+  "name": "codeceptjs-web-bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^8.14.0",
+    "codeceptjs": "^3.5.9",
+    "webdriverio": "^9.8.0"
+  }
+}
